@@ -22,8 +22,6 @@ Get started with Angular
 
 - Use routing to navigate among different views and their components.
 
-[Link to Netlify URL](https://thirsty-stonebraker-d52f53.netlify.com)
-
 **Technologies**
 
 - Angular
